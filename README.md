@@ -43,7 +43,7 @@ Reload the PATH
 ```
 $ source ~/.bashrc
 ```
-From the project directory `~/Workspace/hyperledger-fabric`:
+From the project directory `~/Workspace/hyperledger-hackathon`:
 ```
 $ bash scripts/docker.sh 0.0.11
 $ npm install
